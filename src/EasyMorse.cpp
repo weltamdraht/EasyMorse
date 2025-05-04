@@ -29,7 +29,7 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  const charStruct charDictionary[] {
     {0,12,"a",97},                           //a
     {1,2111,"b",98},                         //b
-    {2,2221,"c",99},                         //c
+    {2,2121,"c",99},                         //c
     {3,211,"d",100},                         //d
     {4,1,"e",101},                           //e
     {5,1121,"f",102},                        //f
@@ -39,7 +39,7 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     {9,1222,"j",106},                        //j
     {10,212,"k",107},                        //k
     {11,1211,"l",108},                       //l
-    {12,2222,"m",109},                       //m
+    {12,22,"m",109},                        //m
     {13,21,"n",110},                         //n
     {14,222,"o",111},                        //o
     {15,1221,"p",112},                       //p
@@ -97,9 +97,9 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     {67,21122,"*",42},                       //*
     {68,1122,"",32},                         //Space
     {69,1212,"",10},                         //Enter
-    {70,22,"",8},                            //Backspace 
+    {70,2222,"",8},                            //Backspace 
     {71,221112,"",129},                      //Shift
-    {72,2121,"",128},                        //Ctrl
+    {72,2221,"",128},                        //Ctrl
     {73,22122,"",130},                       //Alt
     {74,12112,"",218},                       //Arrow Up
     {75,12211,"",217},                       //Arrow Down 
